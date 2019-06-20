@@ -1,4 +1,6 @@
-first string change2 newBranch creation and 3 commit
+first newBranch creation and 4 commit
+let it be - first string change2 newBranch creation and 3 commit
+ commining in new branch
 second string
 firrd one
 forth etc change2
